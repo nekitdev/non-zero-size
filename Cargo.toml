@@ -1,0 +1,12 @@
+[package]
+name = "non-zero-size"
+version = "0.1.0"
+authors = ["nekitdev <nekit@nekit.dev>"]
+edition = "2024"
+description = "Non-zero sizes."
+documentation = "https://docs.rs/non-zero-size"
+readme = "README.md"
+repository = "https://github.com/nekitdev/non-zero-size"
+license = "MIT"
+keywords = ["non-zero", "size"]
+categories = ["no-std", "no-std::no-alloc", "rust-patterns"]
