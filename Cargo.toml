@@ -1,8 +1,9 @@
 [package]
 name = "non-zero-size"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["nekitdev <nekit@nekit.dev>"]
 edition = "2024"
+rust-version = "1.95"
 description = "Non-zero sizes."
 documentation = "https://docs.rs/non-zero-size"
 readme = "README.md"
